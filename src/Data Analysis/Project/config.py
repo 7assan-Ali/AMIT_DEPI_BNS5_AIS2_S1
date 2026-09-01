@@ -5,4 +5,4 @@ num_col=["Age","Fare"]
 cat_cols=[]
 
 
-# cat_cols=["Sex","Pclass","Survived","SibSp","Parch","Embarked"]
+cat_cols=["Sex","Pclass","Survived","SibSp","Parch","Embarked"]
