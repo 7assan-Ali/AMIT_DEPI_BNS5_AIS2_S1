@@ -1,13 +1,36 @@
-# AMIT_DEPI_BNS5_AIS2_S1
+# AMIT / DEPI — AI & Data Science Training
 
-## Project Overview
-This repository is designed for Python projects related to Machine Learning.
+A structured repository for practical exercises and assignments completed during AI and Data Science training.
 
-## Python folder
-in seesion-1 Assignment there are solve for 4 problems
+## 🎯 Focus Areas
 
-## Folder Structure
-- `Python/`: Contains Python scripts and resources for Machine Learning.
+- Python programming
+- Data analysis fundamentals
+- Machine learning foundations
+- Problem solving through practical assignments
 
-## Getting Started
-To get started with this project, clone the repository and navigate to the `Python` folder.
+## 📁 Structure
+
+```text
+AMIT_DEPI_BNS5_AIS2_S1/
+├── src/
+├── .vscode/
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+## 🚀 Getting Started
+
+Clone the repository and open it in your preferred Python development environment.
+
+```bash
+git clone https://github.com/7assan-Ali/AMIT_DEPI_BNS5_AIS2_S1.git
+cd AMIT_DEPI_BNS5_AIS2_S1
+```
+
+## 👨‍💻 Author
+
+**Hassan Ali**
+
+GitHub: https://github.com/7assan-Ali
